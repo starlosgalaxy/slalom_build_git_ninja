@@ -1,1 +1,1 @@
-echo 'hello slalom build !'
+echo 'hello slalom build!'
